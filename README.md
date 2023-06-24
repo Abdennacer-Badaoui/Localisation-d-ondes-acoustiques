@@ -5,7 +5,7 @@ Modélisation de la localisation d'ondes acoustiques
 ![mm](https://github.com/Abdennacer-Badaoui/Localisation-d-ondes-acoustiques/assets/106801897/f5e1e9fb-488b-4e21-9c2e-d8f0fd4d2893)
 
 
-Le projet de décompose en trois parties:
+Le projet se décompose en trois parties:
 
 Partie 1 : 'ST5 - CC Badaoui Abdennacer'
 Manipulation des maillages qui vont etre utilisés dans la méthode des éléments finis pour résoudre l'équation de Helmholtz
